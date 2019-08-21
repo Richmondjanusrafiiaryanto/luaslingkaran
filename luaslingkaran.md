@@ -1,3 +1,0 @@
-#luaslingkaran
-#hasil satu
-![Alt Text](    https://github.com/Richmondjanusrafiiaryanto/luaslingkaran/blob/master/Screenshot%20(158).png "hasil satu")
